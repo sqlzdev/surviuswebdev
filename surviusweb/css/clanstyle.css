@@ -1,0 +1,29 @@
+.field {
+display: block;
+width: 20%;
+height: 34px;
+padding: 6px 12px;
+font-size: 14px;
+line-height: 1.42857143;
+color: #fff;
+background-color: #ffffff00;
+background-image: none;
+border: 1px solid #9b2727;
+border-radius: 4px;
+}
+
+.table {
+  font-size: 14px;
+  line-height: 2;
+  color: #fff;
+  background-color: #ffffff00;
+  background-image: none;
+  border: 1px solid #9b2727;
+  border-radius: 4px;
+  text-align: center;
+  margin: 10px;
+
+
+
+
+}
